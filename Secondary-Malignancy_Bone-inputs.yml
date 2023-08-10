@@ -1,0 +1,15 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/secondary-malignancy_bone---primary.py
+inputModule3:
+  class: File
+  path: python/secondary-malignant-neoplasm-bone-bone-marrow-secondary-malignancy_bone---secondary.py
+inputModule4:
+  class: File
+  path: python/output-cases.py
